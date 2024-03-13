@@ -1,6 +1,6 @@
 import React from "react";
 import { Form } from "@/components/form";
-import Quote from "@/models/Quote";
+import { Quote } from "@/models/Quote";
 
 export default function Page() {
   return (
